@@ -1,4 +1,4 @@
-# Gasoline Prices Increase-CS-668-Capstone-Project
+#GitHub README Template for CS 668 Capstone Project
 
 Monica Hawkins
 
