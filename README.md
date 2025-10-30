@@ -6,6 +6,5 @@
 
 mh21492p@pace.edu
 
-Monica Hawkins Presentation.mp4
 
 
