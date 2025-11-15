@@ -11,14 +11,16 @@ mh21492p@pace.edu
 
 * Abstract: 
 
-Dataset:  This dataset appears to contain various categories of natural gas prices in the United States across different months. It includes columns for different categories of prices (e.g., by pipeline, imports, residential, industrial) and price values for specific months (February, March, April, May, June, and July). There is also a 'History' column that seems to indicate the historical period covered for some price categories.
-    The dataset is available here: Price_Increase_of _Gasoline_Financial.ipynb
+Dataset: This a U.S Natural Gas dataset that provide monthly summary of gas costs across the supple chain.  
+    The dataset is available here:  https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm
 
 * Methodology:
 
 * Results:
 
 * Limitations:
+
+* Poster (as an image)
 
     
 
