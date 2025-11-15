@@ -27,7 +27,10 @@ oil price turns out the be the best forecasting model both on the training data 
 the testing data, even with the testing data containing significant turning points.
 Managerial implications and future research directions are also discusse
 
-Dataset: This a U.S Natural Gas dataset that provide monthly summary of gas costs across the supple chain.  
+* Keywords: Time Series Forecast, Gasoline Price, R Studio, ARIMA Models, Time
+Series Regression, Model Accuracy and Validation
+
+* Dataset: This a U.S Natural Gas dataset that provide monthly summary of gas costs across the supple chain.  
     The dataset is available here:  https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm
 
 * Methodology:
