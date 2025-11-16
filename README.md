@@ -40,7 +40,7 @@ Managerial implications and future research directions are also discusse
 
 * Methodology: crude oil is located in regions that have been prone historically to political upheaval or have had their oil production disrupted due to political events. Several major oil price shocks have occurred at the same time as supply disruptions triggered by political events, most notably the Arab Oil Embargo in 1973-74, the Iranian revolution and Iran-Iraq war in the late 1970s and early 1980s, and Persian Gulf War in 1990. More recently, disruptions to supply (or curbs on potential development of resources) from political events have been seen in Nigeria, Venezuela, Russia, Iraq, Iran, and Libya.
 
-* <img width="905" height="399" alt="image" src="https://github.com/user-attachments/assets/aa41e2bb-3355-4e2e-9fdc-dc47f4884124" />
+ <img width="905" height="399" alt="image" src="https://github.com/user-attachments/assets/aa41e2bb-3355-4e2e-9fdc-dc47f4884124" />
 
 * The chart plots the quarterly average crude oil price in real 2022 dollars per barrel over time.
 
