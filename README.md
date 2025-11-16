@@ -57,10 +57,12 @@ Managerial implications and future research directions are also discusse
 
 * Limitations:
 
-* Reference: He, Xin James. 2023. Forecasting Gasoline Price with Time Series Models. Communications of the IIMA 21, 1 (2023), Article 1. DOI:https://doi.org/10.58729/1941-6687.1440
+* Reference:
+  
+* He, Xin James. 2023. Forecasting Gasoline Price with Time Series Models. Communications of the IIMA 21, 1 (2023), Article 1. DOI:https://doi.org/10.58729/1941-6687.1440
 
-             U.S. Energy Information Administration. “What Drives Crude Oil Prices: Spot Prices.” U.S. Energy Information Administration, https://www.eia.gov/finance/markets/crudeoil/spot_prices.php
-
+* U.S. Energy Information Administration (EIA). n.d. What drives crude oil prices: Spot Prices. U.S. Energy Information Administration (EIA). Accessed 16 Nov 2025. https://www.eia.gov/finance/markets/crudeoil/spot_prices.php
+            
 
 * Poster (as an image)
 
