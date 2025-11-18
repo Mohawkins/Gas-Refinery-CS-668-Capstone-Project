@@ -57,6 +57,18 @@ This a U.S Natural Gas dataset that provide monthly summary of gas costs across 
 
 
   ## Results
+  *  forecast the average U.S. retail gasoline price to remain near $3.00 per gallon (gal) for the
+remainder of 2025, resulting in an average 2025 price of $3.10/gal, a 6% decrease from 2024.
+ In 2026, we forecast the average retail gasoline price to fall by 4% to just under $3.00/gal,
+which would be the lowest annual average price since 2020. 
+
+  <img width="662" height="356" alt="image" src="https://github.com/user-attachments/assets/7c3bde3b-f64a-40a6-ae03-effcad07fea7" />
+
+  *price of natural gas will average just over $13.80 per thousand cubic feet this winter, up 2% from last year.
+  
+
+  <img width="609" height="352" alt="image" src="https://github.com/user-attachments/assets/905f247f-4ec3-45e7-85e1-ff89fbf06fca" />
+
 
   ## Limitation
 
@@ -65,6 +77,9 @@ This a U.S Natural Gas dataset that provide monthly summary of gas costs across 
 * He, Xin James. 2023. Forecasting Gasoline Price with Time Series Models. Communications of the IIMA 21, 1 (2023), Article 1. DOI:https://doi.org/10.58729/1941-6687.1440
 
 * U.S. Energy Information Administration (EIA). n.d. What drives crude oil prices: Spot Prices. U.S. Energy Information Administration (EIA). Accessed 16 Nov 2025. https://www.eia.gov/finance/markets/crudeoil/spot_prices.php
+
+* U.S. Energy Information Administration. 2025. Short-Term Energy Outlook (November 2025). U.S. Department of Energy.
+  Retrieved November 17, 2025 from https://www.eia.gov/outlooks/steo/pdf/steo_text.pdf
             
 
 * Poster (as an image)
