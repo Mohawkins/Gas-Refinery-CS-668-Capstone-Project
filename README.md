@@ -29,19 +29,19 @@ the testing data, even with the testing data containing significant turning poin
 Managerial implications and future research directions are also discusse
 
 ## Keywords 
-  Time Series Forecast, Gasoline Price, R Studio, ARIMA Models, Time Series Regression, Model Accuracy and Validation
+ * Time Series Forecast, Gasoline Price, R Studio, ARIMA Models, Time Series Regression, Model Accuracy and Validation
             
 
 ## Research Question
-  How can we prevent the refinery from raising gas prices above $4.00?
-  What can we do to persuade the United States Environmental Protection Agency to look into the refinery’s decision not to switch during the winter season? 
+     How can we prevent the refinery from raising gas prices above $4.00?
+     What can we do to persuade the United States Environmental Protection Agency to look into the refinery’s decision not to switch during the winter season? 
             
 ## Dataset
-This a U.S Natural Gas dataset that provide monthly summary of gas costs across the supple chain.  
+ This a U.S Natural Gas dataset that provide monthly summary of gas costs across the supple chain.  
            The dataset is available here:  https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm
 
 ## Methodolgy
-  Crude oil is located in regions that have been prone historically to political upheaval or have had their oil production disrupted due to political events. Several major oil price shocks have occurred at the same time as supply disruptions triggered by political events, most notably the Arab Oil Embargo in 1973-74, the Iranian revolution and Iran-Iraq war in the late 1970s and early 1980s, and Persian Gulf War in 1990. More recently, disruptions to supply (or curbs on potential development of resources) from political events have been seen in Nigeria, Venezuela, Russia, Iraq, Iran, and Libya.
+  * Crude oil is located in regions that have been prone historically to political upheaval or have had their oil production disrupted due to political events. Several major oil price shocks have occurred at the same time as supply disruptions triggered by political events, most notably the Arab Oil Embargo in 1973-74, the Iranian revolution and Iran-Iraq war in the late 1970s and early 1980s, and Persian Gulf War in 1990. More recently, disruptions to supply (or curbs on potential development of resources) from political events have been seen in Nigeria, Venezuela, Russia, Iraq, Iran, and Libya.
 
  <img width="905" height="399" alt="image" src="https://github.com/user-attachments/assets/aa41e2bb-3355-4e2e-9fdc-dc47f4884124" />
 
