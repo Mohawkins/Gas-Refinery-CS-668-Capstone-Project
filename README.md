@@ -76,7 +76,7 @@ which would be the lowest annual average price since 2020.
   
     
  
-  *  <img width="780" height="521" alt="image" src="https://github.com/user-attachments/assets/6bdd752e-5db9-4e8b-a7b6-461c4197f8b1" />
+    <img width="780" height="521" alt="image" src="https://github.com/user-attachments/assets/6bdd752e-5db9-4e8b-a7b6-461c4197f8b1" />
 
    Louisiana’s 17 oil refineries account for nearly one-fifth of the nation’s refining capacity 
            and can process about 3.4 million barrels of crude a day, according to the Energy Information Administration
