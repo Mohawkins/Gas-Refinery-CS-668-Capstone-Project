@@ -71,6 +71,10 @@ which would be the lowest annual average price since 2020.
 
 
   ## Limitation
+      * Consumers complain about “price gouging” just about anytime they do not like a price. A casual scan of letters to the editor and online columnists will reveal price gouging claims for everything from 3‑D movie      tickets, to fresh-cut flowers, to cables for high-definition televisions.
+
+    * Working in Progess
+  
 
   ## Reference
   
@@ -80,9 +84,16 @@ which would be the lowest annual average price since 2020.
 
 * U.S. Energy Information Administration. 2025. Short-Term Energy Outlook (November 2025). U.S. Department of Energy.
   Retrieved November 17, 2025 from https://www.eia.gov/outlooks/steo/pdf/steo_text.pdf
+
+*  Giberson, M. 2011. The Problem with Price Gouging Laws. Regulation, Spring 2011, Vol. 34, No. 1, 48–53. Retrieved
+   November 21, 2025, from https://www.cato.org/regulation/spring-2011/problem-price-gouging-laws
+
+*  Ahmad, S. 2021. Oil, gasoline prices head higher as Ida kicks hurricane season into a higher gear. CNBC.
+  August 30, 2021. Retrieved November 21, 2025 from https://www.cnbc.com/2021/08/30/oil-gasoline-prices-head-higher-as-ida-kicks-hurricane-season-into-a-higher-gear.htm   
             
 
-* Poster (as an image)
+* <img width="757" height="498" alt="image" src="https://github.com/user-attachments/assets/0cd2b5da-5514-41e8-aa09-5cbf25e5ac6b" />
+
 
     
 
