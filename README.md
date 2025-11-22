@@ -71,7 +71,8 @@ which would be the lowest annual average price since 2020.
 
   ## Economic limitations
 
-      20 offshore rigs sustained significant damage by either sinking or running adrift. As a result, Louisiana refineries began to halt production, and gas prices across the countries rapidly increased in the weeks following Katrina. 
+     * 20 offshore rigs sustained significant damage by either sinking or running adrift. 
+     As a result, Louisiana refineries began to halt production, and gas prices across the countries rapidly increased in the weeks following Katrina. 
       
     * Working in Progess
     
