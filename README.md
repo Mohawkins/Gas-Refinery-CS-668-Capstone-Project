@@ -87,11 +87,11 @@ which would be the lowest annual average price since 2020.
            and can process about 3.4 million barrels of crude a day, according to the Energy Information Administration
            Louisiana is the largest that hold gasoline.
 
-  Increase:  Within a month after Katrina’s landfall, another major storm, Hurricane Rita, pounded Louisiana and Texas.
-             Ten days after Rita came ashore, retail gasoline prices were back above $3.00 per gallon.
-
 
  <img width="440" height="288" alt="image" src="https://github.com/user-attachments/assets/ff2243fb-3108-43b2-b1ca-a1faddad3cbc" />
+
+ Increase:  Within a month after Katrina’s landfall, another major storm, Hurricane Rita, pounded Louisiana and Texas.
+             Ten days after Rita came ashore, retail gasoline prices were back above $3.00 per gallon.
 
            
   ## Reference
