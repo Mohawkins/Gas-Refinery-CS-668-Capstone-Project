@@ -77,7 +77,7 @@ which would be the lowest annual average price since 2020.
 
     * Working in Progess
  
-    *  <img width="757" height="498" alt="image" src="https://github.com/user-attachments/assets/0cd2b5da-5514-41e8-aa09-5cbf25e5ac6b" />
+      <img width="757" height="498" alt="image" src="https://github.com/user-attachments/assets/0cd2b5da-5514-41e8-aa09-5cbf25e5ac6b" />
   
 
   ## Reference
