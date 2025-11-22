@@ -33,7 +33,7 @@ Managerial implications and future research directions are also discusse
             
 
 ## Research Question
-    How can we prevent the refinery from raising gas prices above 4.00?
+    How can we prevent the refinery from raising gas prices above 4.00
             
 ## Dataset
  This a U.S Natural Gas dataset that provide monthly summary of gas costs across the supple chain.  
@@ -72,10 +72,12 @@ which would be the lowest annual average price since 2020.
   ## Economic limitations
 
       20 offshore rigs sustained significant damage by either sinking or running adrift. As a result, Louisiana refineries began to halt production, and gas prices across the countries rapidly increased in the weeks following Katrina. 
+      
     * Working in Progess
     
  
-      <img width="757" height="498" alt="image" src="https://github.com/user-attachments/assets/0cd2b5da-5514-41e8-aa09-5cbf25e5ac6b" />
+    <img width="780" height="521" alt="image" src="https://github.com/user-attachments/assets/6bdd752e-5db9-4e8b-a7b6-461c4197f8b1" />
+
   
 
   ## Reference
@@ -90,8 +92,7 @@ which would be the lowest annual average price since 2020.
 *  Giberson, M. 2011. The Problem with Price Gouging Laws. Regulation, Spring 2011, Vol. 34, No. 1, 48–53. Retrieved
    November 21, 2025, from https://www.cato.org/regulation/spring-2011/problem-price-gouging-laws
 
-*  Ahmad, S. 2021. Oil, gasoline prices head higher as Ida kicks hurricane season into a higher gear. CNBC.
-  August 30, 2021. Retrieved November 21, 2025 from https://www.cnbc.com/2021/08/30/oil-gasoline-prices-head-higher-as-ida-kicks-hurricane-season-into-a-higher-gear.htm
+*  Oil, gasoline prices head higher as Ida kicks hurricane season into a higher gear,” CNBC, Aug. 30, 2021. Retrieved Nov. 21, 2025, from https://www.cnbc.com/2021/08/30/oil-gasoline-prices-head-higher-as-ida-kicks-hurricane-season-into-a-higher-gear.html
 
 * Louisiana State University Libraries. “Hurricane Katrina Impact on Economy.” *Louisiana Hurricanes – Research Guides*, Louisiana State University, accessed Nov. 21, 2025. https://guides.lib.lsu.edu/Hurricanes/KatrinaEconomy.  
 
