@@ -74,6 +74,8 @@ which would be the lowest annual average price since 2020.
       * Consumers complain about “price gouging” just about anytime they do not like a price. A casual scan of letters to the editor and online columnists will reveal price gouging claims for everything from 3‑D movie      tickets, to fresh-cut flowers, to cables for high-definition televisions.
 
     * Working in Progess
+ 
+    *  <img width="757" height="498" alt="image" src="https://github.com/user-attachments/assets/0cd2b5da-5514-41e8-aa09-5cbf25e5ac6b" />
   
 
   ## Reference
@@ -92,7 +94,7 @@ which would be the lowest annual average price since 2020.
   August 30, 2021. Retrieved November 21, 2025 from https://www.cnbc.com/2021/08/30/oil-gasoline-prices-head-higher-as-ida-kicks-hurricane-season-into-a-higher-gear.htm   
             
 
-* <img width="757" height="498" alt="image" src="https://github.com/user-attachments/assets/0cd2b5da-5514-41e8-aa09-5cbf25e5ac6b" />
+
 
 
     
