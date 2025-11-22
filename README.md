@@ -70,8 +70,7 @@ which would be the lowest annual average price since 2020.
 
 
   ## Economic limitations
-    * Shutdown durning a National Disaster
-          About 95% of the Gulf Coast's crude oil and gas production were 
+     Shutdown durning a National Disaster:  About 95% of the Gulf Coast's crude oil and gas production were 
          shut down as Ida ravaged Louisiana, according to energy research company S&P Global Platts.
 
            Louisiana’s 17 oil refineries account for nearly one-fifth of the nation’s refining capacity 
