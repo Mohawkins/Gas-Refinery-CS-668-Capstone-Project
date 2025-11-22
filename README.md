@@ -57,7 +57,7 @@ Managerial implications and future research directions are also discusse
 
 
   ## Results
-  *  Forecast the average U.S. retail gasoline price to remain near $3.00 per gallon (gal) for the
+   * Forecast the average U.S. retail gasoline price to remain near $3.00 per gallon (gal) for the
 remainder of 2025, resulting in an average 2025 price of $3.10/gal, a 6% decrease from 2024.
  In 2026, we forecast the average retail gasoline price to fall by 4% to just under $3.00/gal,
 which would be the lowest annual average price since 2020. 
