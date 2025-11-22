@@ -71,7 +71,7 @@ which would be the lowest annual average price since 2020.
 
   ## Economic limitations
 
-      * Supply Disruption in Oil and Gas Production
+      Supply Disruption in Oil and Gas Production
 
            * Production Shutdown: About 95% of the Gulf Coast's crude oil and gas production were shut down as Ida ravaged Louisiana, 
              according to energy research company S&P Global Platts. 
@@ -82,7 +82,7 @@ which would be the lowest annual average price since 2020.
 
      
       
-    * Working in Progess
+     Working in Progess
     
  
    * <img width="780" height="521" alt="image" src="https://github.com/user-attachments/assets/6bdd752e-5db9-4e8b-a7b6-461c4197f8b1" />
