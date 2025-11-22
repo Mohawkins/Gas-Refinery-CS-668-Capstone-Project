@@ -77,6 +77,12 @@ which would be the lowest annual average price since 2020.
  
  *   <img width="780" height="521" alt="image" src="https://github.com/user-attachments/assets/6bdd752e-5db9-4e8b-a7b6-461c4197f8b1" />
 
+   Hurricane Katrina in late August, we are reminded of just how important gasoline, diesel fuel,
+   and other petroleum products are to the economy. Although hundreds of miles from the Gulf Coast, the Fifth
+   District region quickly experienced gasoline shortages and soaring prices because of the damage 
+   to oil production and refining facilities caused by the storm.
+
+   
    Louisiana’s 17 oil refineries account for nearly one-fifth of the nation’s refining capacity 
            and can process about 3.4 million barrels of crude a day, according to the Energy Information Administration
            Louisiana is the largest that hold gasoline.
@@ -100,6 +106,8 @@ which would be the lowest annual average price since 2020.
 * Sundby, A., Chau, N. B., Layne, R., Albert, V., & Dakss, B. 2021. Ida causes widespread damage and power outages along Louisiana coast. CBS News, August 31. Retrieved November 21, 2025 from https://www.cbsnews.com/live-updates/hurricane-ida-louisiana-damage-power-outages-2021-08-30/
 
 * [1] Eric Morath. 2021. A Hurricane Ida economic impact: Louisiana’s 17 oil refineries account for one-fifth of U.S. capacity — and hundreds could be vulnerable to flooding. *Los Angeles Times*. Aug. 29, 2021. Retrieved Nov. 21, 2025 from https://www.latimes.com/business/story/2021-08-29/a-hurricane-ida-economic-impact#:~:text=Louisiana’s%2017%20oil%20refineries%20account,could%20be%20vulnerable%20to%20flooding.
+
+* Lacy, R. 2005. Hurricane Katrina Disrupts District Economy. Region Focus, Fall 2005, Federal Reserve Bank of Richmond, 51–59. Retrieved from https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/econ_focus/2005/fall/pdf/economic_developments.pdf
 
             
 
