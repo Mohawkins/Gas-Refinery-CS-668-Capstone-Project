@@ -41,7 +41,7 @@ Managerial implications and future research directions are also discusse
            The dataset is available here:  https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm
 
 ## Methodolgy
-  * Crude oil is located in regions that have been prone historically to political upheaval or have had their oil production disrupted due to political events. Several major oil price shocks have occurred at the same time as supply disruptions triggered by political events, most notably the Arab Oil Embargo in 1973-74, the Iranian revolution and Iran-Iraq war in the late 1970s and early 1980s, and Persian Gulf War in 1990. More recently, disruptions to supply (or curbs on potential development of resources) from political events have been seen in Nigeria, Venezuela, Russia, Iraq, Iran, and Libya.
+Crude oil is located in regions that have been prone historically to political upheaval or have had their oil production disrupted due to political events. Several major oil price shocks have occurred at the same time as supply disruptions triggered by political events, most notably the Arab Oil Embargo in 1973-74, the Iranian revolution and Iran-Iraq war in the late 1970s and early 1980s, and Persian Gulf War in 1990. More recently, disruptions to supply (or curbs on potential development of resources) from political events have been seen in Nigeria, Venezuela, Russia, Iraq, Iran, and Libya.
 
  <img width="905" height="399" alt="image" src="https://github.com/user-attachments/assets/aa41e2bb-3355-4e2e-9fdc-dc47f4884124" />
 
@@ -51,13 +51,13 @@ Managerial implications and future research directions are also discusse
 
      * Y-axis: Quarterly Average Crude Oil Price in real 2022 dollars, ranging from $0 to over $175 per barrel.
 
-* Data Series: The gray line represents the price, specifically showing the West Texas 
+  Data Series: The gray line represents the price, specifically showing the West Texas 
   Intermediate (WTI) crude oil price and the Imported refiner acquisition cost of crude
   oil. Since they are plotted as a single line, they track each other closely.
 
 
   ## Results
-   * Forecast the average U.S. retail gasoline price to remain near $3.00 per gallon (gal) for the
+ Forecast the average U.S. retail gasoline price to remain near $3.00 per gallon (gal) for the
 remainder of 2025, resulting in an average 2025 price of $3.10/gal, a 6% decrease from 2024.
  In 2026, we forecast the average retail gasoline price to fall by 4% to just under $3.00/gal,
 which would be the lowest annual average price since 2020. 
@@ -72,7 +72,7 @@ which would be the lowest annual average price since 2020.
 
   ## Economic limitations
 
-     * 20 offshore rigs sustained significant damage by either sinking or running adrift. As a result, Louisiana refineries began to halt production, and gas prices across the countries rapidly increased in the weeks following Katrina. 
+      20 offshore rigs sustained significant damage by either sinking or running adrift. As a result, Louisiana refineries began to halt production, and gas prices across the countries rapidly increased in the weeks following Katrina. 
     * Working in Progess
  
       <img width="757" height="498" alt="image" src="https://github.com/user-attachments/assets/0cd2b5da-5514-41e8-aa09-5cbf25e5ac6b" />
@@ -91,7 +91,10 @@ which would be the lowest annual average price since 2020.
    November 21, 2025, from https://www.cato.org/regulation/spring-2011/problem-price-gouging-laws
 
 *  Ahmad, S. 2021. Oil, gasoline prices head higher as Ida kicks hurricane season into a higher gear. CNBC.
-  August 30, 2021. Retrieved November 21, 2025 from https://www.cnbc.com/2021/08/30/oil-gasoline-prices-head-higher-as-ida-kicks-hurricane-season-into-a-higher-gear.htm   
+  August 30, 2021. Retrieved November 21, 2025 from https://www.cnbc.com/2021/08/30/oil-gasoline-prices-head-higher-as-ida-kicks-hurricane-season-into-a-higher-gear.htm
+
+* Louisiana State University Libraries. “Hurricane Katrina Impact on Economy.” *Louisiana Hurricanes – Research Guides*, Louisiana State University, accessed Nov. 21, 2025. https://guides.lib.lsu.edu/Hurricanes/KatrinaEconomy.  
+
             
 
 
