@@ -71,8 +71,16 @@ which would be the lowest annual average price since 2020.
 
   ## Economic limitations
 
-     * 20 offshore rigs sustained significant damage by either sinking or running adrift. 
-     As a result, Louisiana refineries began to halt production, and gas prices across the countries rapidly increased in the weeks following Katrina. 
+      * Supply Disruption in Oil and Gas Production
+
+           * Production Shutdown: About 95% of the Gulf Coast's crude oil and gas production were shut down as Ida ravaged Louisiana, 
+             according to energy research company S&P Global Platts. 
+
+           *  Refinery: Louisiana’s 17 oil refineries account for nearly one-fifth of the nation’s refining capacity and 
+              can process about 3.4 million barrels of crude a day, according to the Energy Information Administration. 
+              Louisiana is the largest that hold gasoline.
+
+     
       
     * Working in Progess
     
@@ -95,7 +103,9 @@ which would be the lowest annual average price since 2020.
 
 *  Oil, gasoline prices head higher as Ida kicks hurricane season into a higher gear,” CNBC, Aug. 30, 2021. Retrieved Nov. 21, 2025, from https://www.cnbc.com/2021/08/30/oil-gasoline-prices-head-higher-as-ida-kicks-hurricane-season-into-a-higher-gear.html
 
-* Louisiana State University Libraries. “Hurricane Katrina Impact on Economy.” *Louisiana Hurricanes – Research Guides*, Louisiana State University, accessed Nov. 21, 2025. https://guides.lib.lsu.edu/Hurricanes/KatrinaEconomy.  
+* Sundby, A., Chau, N. B., Layne, R., Albert, V., & Dakss, B. 2021. Ida causes widespread damage and power outages along Louisiana coast. CBS News, August 31. Retrieved November 21, 2025 from https://www.cbsnews.com/live-updates/hurricane-ida-louisiana-damage-power-outages-2021-08-30/
+
+* [1] Eric Morath. 2021. A Hurricane Ida economic impact: Louisiana’s 17 oil refineries account for one-fifth of U.S. capacity — and hundreds could be vulnerable to flooding. *Los Angeles Times*. Aug. 29, 2021. Retrieved Nov. 21, 2025 from https://www.latimes.com/business/story/2021-08-29/a-hurricane-ida-economic-impact#:~:text=Louisiana’s%2017%20oil%20refineries%20account,could%20be%20vulnerable%20to%20flooding.
 
             
 
