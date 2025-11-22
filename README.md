@@ -33,8 +33,8 @@ Managerial implications and future research directions are also discusse
             
 
 ## Research Question
-     How can we prevent the refinery from raising gas prices above $4.00?
-     What can we do to persuade the United States Environmental Protection Agency to
+    * How can we prevent the refinery from raising gas prices above $4.00?
+    *  What can we do to persuade the United States Environmental Protection Agency to
      look into the refinery’s decision not to switch during the winter season? 
             
 ## Dataset
@@ -75,6 +75,7 @@ which would be the lowest annual average price since 2020.
 
       20 offshore rigs sustained significant damage by either sinking or running adrift. As a result, Louisiana refineries began to halt production, and gas prices across the countries rapidly increased in the weeks following Katrina. 
     * Working in Progess
+    
  
       <img width="757" height="498" alt="image" src="https://github.com/user-attachments/assets/0cd2b5da-5514-41e8-aa09-5cbf25e5ac6b" />
   
