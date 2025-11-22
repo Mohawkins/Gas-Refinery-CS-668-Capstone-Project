@@ -71,16 +71,16 @@ which would be the lowest annual average price since 2020.
 
   ## Economic limitations
   
-       Louisiana’s 17 oil refineries account for nearly one-fifth of the nation’s refining capacity 
-           and can process about 3.4 million barrels of crude a day, according to the Energy Information Administration
-           Louisiana is the largest that hold gasoline.
-               
+      
   
     
  
  *   <img width="780" height="521" alt="image" src="https://github.com/user-attachments/assets/6bdd752e-5db9-4e8b-a7b6-461c4197f8b1" />
 
-   
+   Louisiana’s 17 oil refineries account for nearly one-fifth of the nation’s refining capacity 
+           and can process about 3.4 million barrels of crude a day, according to the Energy Information Administration
+           Louisiana is the largest that hold gasoline.
+           
   ## Reference
   
 * He, Xin James. 2023. Forecasting Gasoline Price with Time Series Models. Communications of the IIMA 21, 1 (2023), Article 1. DOI:https://doi.org/10.58729/1941-6687.1440
