@@ -33,7 +33,7 @@ Managerial implications and future research directions are also discusse
             
 
 ## Research Question
-    How can we prevent the refinery from raising gas prices above 4.00
+   * How can we prevent the refinery from raising gas prices above 4.00
             
 ## Dataset
  This a U.S Natural Gas dataset that provide monthly summary of gas costs across the supple chain.  
