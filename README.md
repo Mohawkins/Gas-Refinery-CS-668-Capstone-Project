@@ -34,7 +34,8 @@ Managerial implications and future research directions are also discusse
 
 ## Research Question
      How can we prevent the refinery from raising gas prices above $4.00?
-     What can we do to persuade the United States Environmental Protection Agency to look into the refinery’s decision not to switch during the winter season? 
+     What can we do to persuade the United States Environmental Protection Agency to
+     look into the refinery’s decision not to switch during the winter season? 
             
 ## Dataset
  This a U.S Natural Gas dataset that provide monthly summary of gas costs across the supple chain.  
