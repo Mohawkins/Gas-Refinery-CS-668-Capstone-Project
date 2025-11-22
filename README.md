@@ -71,7 +71,9 @@ which would be the lowest annual average price since 2020.
 
 
   ## Limitation
-      * Consumers complain about “price gouging” just about anytime they do not like a price. A casual scan of letters to the editor and online columnists will reveal price gouging claims for everything from 3‑D movie             tickets, to fresh-cut flowers, to cables for high-definition televisions.
+      * Consumers complain about “price gouging” just about anytime they do not like a price.
+      A casual scan of letters to the editor and online columnists will reveal price gouging claims for everything from 3‑D movie
+      tickets, to fresh-cut flowers, to cables for high-definition televisions.
 
     * Working in Progess
  
