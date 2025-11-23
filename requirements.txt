@@ -1,0 +1,13 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.7.2
+seaborn==0.13.2
+statsmodels==0.14.2
+scikit-learn==1.4.2
+pmdarima==2.0.4
+jupyterlab==4.2.0
+python-dateutil==2.9.0
+
+openpyxl==3.1.2      # if you read Excel files
+requests==2.32.0     # if you download data from EIA API
+plotly==5.20.0       # if you create interactive plots
