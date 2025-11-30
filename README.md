@@ -10,7 +10,7 @@ mh21492p@pace.edu
 
 ## Gasoline Price Increase Poster
 
-[📊 View Final Presentation](./Final%20Presentation)  
+
 [📋 View Poster Template](./POSTER.md)  
 [🎨 View Interactive Poster](./poster.html)
 
