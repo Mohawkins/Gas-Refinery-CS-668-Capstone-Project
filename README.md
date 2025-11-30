@@ -28,7 +28,7 @@ oil price turns out the be the best forecasting model both on the training data 
 the testing data, even with the testing data containing significant turning points.
 Managerial implications and future research directions are also discusse
 
-![Gasoline Prices Poster](https://github.com/Mohawkins/Gasoline-Prices-Increase-CS-668-Capstone-Project/raw/main/assets/banner.png)
+* Link to Poster (https://github.com/Mohawkins/Gasoline-Prices-Increase-CS-668-Capstone-Project/raw/main/assets/banner.png)
 
 
 ## Keywords 
