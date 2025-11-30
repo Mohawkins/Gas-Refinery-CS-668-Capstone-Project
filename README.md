@@ -96,8 +96,7 @@ which would be the lowest annual average price since 2020.
              
   ## Conclusions
 
-    * Summer-blend fuel requirements may be relaxed in times of emergencies or when potential shortages are possible.
-In 2005, NACS worked with Congress to give the EPA the authority to waive certain regulations affecting the motor fuels system in times of emergency. The EPA’s immediate use of these waivers is critical to bringing the entire fuel supply chain into operation as quickly and safely as possible. For example, this flexibility allowed winter blends of gasoline to enter into the market in 2017 before the traditional transition date of September 15 in response to Hurricanes Harvey, Irma and Maria.
+    *
 
  
            
@@ -121,8 +120,7 @@ In 2005, NACS worked with Congress to give the EPA the authority to waive certai
 
 * Lacy, R. 2005. Hurricane Katrina Disrupts District Economy. Region Focus, Fall 2005, Federal Reserve Bank of Richmond, 51–59. Retrieved from https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/econ_focus/2005/fall/pdf/economic_developments.pdf
 
-* NACS. n.d. Changing Seasons, Changing Gas Prices. NACS Online. Retrieved November 29, 2025, from https://www.convenience.org/Topics/Fuels/Changing-Seasons-Changing-Gas-Prices
-
+* 
 
 
             
