@@ -96,7 +96,7 @@ which would be the lowest annual average price since 2020.
              
   ## Conclusions
 
-   * In summary, the disruption to Gulf Coast refining and production following Hurricanes Katrina and Rita led to immediate, disparate, and significant impacts across the national fuel market. The most severe effects were concentrated on the East Coast, where pipeline shutdowns led to temporary shortages and peak prices of $3.20 per gallon. In contrast, states served by Northern refineries, such as Minnesota, experienced less volatility due to access to Canadian oil, consistently maintaining prices 20 cents below the national average. Furthermore, the lack of sufficient imports to offset domestic production losses caused diesel fuel to reach inflation-adjusted highs of $2.82 per gallon, contributing to widespread fuel surcharges in shipping. These events highlight the critical vulnerability of the U.S. energy supply chain to concentrated regional shocks and underscore the different roles that pipeline infrastructure and import capacity play in stabilizing regional gasoline versus diesel markets.
+ 
            
   ## Reference
   
@@ -118,7 +118,7 @@ which would be the lowest annual average price since 2020.
 
 * Lacy, R. 2005. Hurricane Katrina Disrupts District Economy. Region Focus, Fall 2005, Federal Reserve Bank of Richmond, 51–59. Retrieved from https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/econ_focus/2005/fall/pdf/economic_developments.pdf
 
-* Grunewald, R. 2005. Gasoline prices climb in response to hurricanes. Federal Reserve Bank of Minneapolis, November 1, 2005. Available: https://www.minneapolisfed.org/article/2005/gasoline-prices-climb-in-response-to-hurricanes
+
 
             
 
