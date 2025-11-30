@@ -118,6 +118,8 @@ which would be the lowest annual average price since 2020.
 
 * Lacy, R. 2005. Hurricane Katrina Disrupts District Economy. Region Focus, Fall 2005, Federal Reserve Bank of Richmond, 51–59. Retrieved from https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/econ_focus/2005/fall/pdf/economic_developments.pdf
 
+* Grunewald, R. 2005. Gasoline prices climb in response to hurricanes. Federal Reserve Bank of Minneapolis, November 1, 2005. Available: https://www.minneapolisfed.org/article/2005/gasoline-prices-climb-in-response-to-hurricanes
+
             
 
 
