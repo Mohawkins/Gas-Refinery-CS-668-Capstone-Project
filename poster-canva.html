@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gasoline Prices Increase - Academic Poster</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 40px 20px;
+            min-height: 100vh;
+        }
+
+        .poster {
+            width: 100%;
+            max-width: 1200px;
+            height: auto;
+            aspect-ratio: 4/5;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            border-radius: 12px;
+        }
+
+        /* Header Section */
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+            flex-shrink: 0;
+        }
+
+        .header h1 {
+            font-size: 48px;
+            font-weight: 800;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+            letter-spacing: -1px;
+        }
+
+        .header p {
+            font-size: 20px;
+            margin: 5px 0;
+            opacity: 0.95;
+        }
+
+        .header .subtitle {
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+
+        /* Content Grid */
+        .content {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: auto auto auto;
+            gap: 20px;
+            padding: 30px;
+            flex-grow: 1;
+            overflow-y: auto;
+        }
+
+        .box {
+            background: #f8f9ff;
+            border-radius: 8px;
+            padding: 20px;
+            border-left: 5px solid #667eea;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .box:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
+        }
+
+        .box h2 {
+            color: #667eea;
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .box h3 {
+            color: #764ba2;
+            font-size: 14px;
+            font-weight: 700;
+            margin-top: 10px;
+            margin-bottom: 6px;
+        }
+
+        .box p {
+            color: #555;
+            font-size: 13px;
+            line-height: 1.6;
+            margin-bottom: 8px;
+        }
+
+        .box ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .box li {
+            color: #666;
+            font-size: 13px;
+            line-height: 1.5;
+            padding-left: 20px;
+            position: relative;
+            margin-bottom: 6px;
+        }
+
+        .box li:before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .highlight-box {
+            background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+            border-left-color: #764ba2;
+            border-top: 3px solid #764ba2;
+            border-left: none;
+        }
+
+        .highlight-box h2 {
+            color: #764ba2;
+        }
+
+        /* Specific Box Placements */
+        .intro { grid-column: 1 / 2; grid-row: 1; }
+        .problem { grid-column: 2 / 3; grid-row: 1; }
+        .questions { grid-column: 3 / 4; grid-row: 1; }
+        .data { grid-column: 1 / 2; grid-row: 2; }
+        .methodology { grid-column: 2 / 3; grid-row: 2; }
+        .findings { grid-column: 3 / 4; grid-row: 2; }
+        .insights { grid-column: 1 / 2; grid-row: 3; }
+        .conclusion { grid-column: 2 / 3; grid-row: 3; }
+        .next { grid-column: 3 / 4; grid-row: 3; }
+
+        /* Footer */
+        .footer {
+            background: #f0f0f0;
+            padding: 20px 30px;
+            text-align: center;
+            border-top: 2px solid #667eea;
+            flex-shrink: 0;
+        }
+
+        .footer p {
+            color: #666;
+            font-size: 12px;
+            margin: 3px 0;
+        }
+
+        .footer strong {
+            color: #333;
+            font-weight: 600;
+        }
+
+        /* Print Styles */
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+            .poster {
+                box-shadow: none;
+                max-width: 100%;
+                height: auto;
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .content {
+                grid-template-columns: 1fr 1fr;
+            }
+            .questions { grid-column: 1 / 3; }
+            .findings { grid-column: 1 / 3; }
+            .next { grid-column: 1 / 3; }
+        }
+
+        @media (max-width: 768px) {
+            .poster {
+                aspect-ratio: auto;
+            }
+            .header h1 {
+                font-size: 32px;
+            }
+            .content {
+                grid-template-columns: 1fr;
+            }
+            .questions { grid-column: 1; }
+            .findings { grid-column: 1; }
+            .next { grid-column: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="poster">
+        <!-- Header -->
+        <div class="header">
+            <h1>📊 Gasoline Prices Increase</h1>
+            <p class="subtitle">An Analytical Study</p>
+            <p>CS 668 Capstone Project</p>
+            <p><strong>Monica Hawkins</strong> | Pace University, NY, USA</p>
+        </div>
+
+        <!-- Content Grid -->
+        <div class="content">
+            <!-- Introduction -->
+            <div class="box intro">
+                <h2>📌 Introduction</h2>
+                <p><strong>Key Factors:</strong></p>
+                <ul>
+                    <li>Crude oil prices</li>
+                    <li>Supply vs. demand</li>
+                    <li>Refinery operations</li>
+                    <li>Seasonal fluctuations</li>
+                </ul>
+                <h3>Key Insight</h3>
+                <p>Prices rise when supply decreases relative to demand and fluctuate with disruptions.</p>
+            </div>
+
+            <!-- Business Problem -->
+            <div class="box problem">
+                <h2>⚠️ Business Problem</h2>
+                <h3>Seasonal Price Volatility</h3>
+                <ul>
+                    <li>Prices spike spring/summer</li>
+                    <li>Winter heating oil demand</li>
+                    <li>Unstable despite stable crude</li>
+                </ul>
+                <h3>Research Goal</h3>
+                <p>Determine if refinery adjustments could stabilize fuel costs and reduce spikes.</p>
+            </div>
+
+            <!-- Research Questions -->
+            <div class="box questions highlight-box">
+                <h2>❓ Research Questions</h2>
+                <h3>Q1: What drives price changes?</h3>
+                <p>Identify key predictive factors</p>
+                <h3>Q2: How do seasonal trends affect pricing?</h3>
+                <p>Spring/summer vs. winter patterns</p>
+                <h3>Q3: Can we predict increases?</h3>
+                <p>Build ML model for price surges</p>
+            </div>
+
+            <!-- Data Sources -->
+            <div class="box data">
+                <h2>📈 Data Sources</h2>
+                <h3>Primary Source</h3>
+                <ul>
+                    <li>EIA (Energy Information Admin)</li>
+                    <li>U.S. Natural Gas Prices</li>
+                </ul>
+                <h3>Data Features</h3>
+                <ul>
+                    <li>Monthly data (Feb-Jul)</li>
+                    <li>11 price categories</li>
+                    <li>12 training entries</li>
+                </ul>
+                <h3>Challenges</h3>
+                <ul>
+                    <li>Missing values</li>
+                    <li>Mixed data types</li>
+                </ul>
+            </div>
+
+            <!-- Methodology -->
+            <div class="box methodology">
+                <h2>🔬 Methodology</h2>
+                <h3>Exploratory Data Analysis</h3>
+                <ul>
+                    <li>Data preprocessing</li>
+                    <li>Missing value assessment</li>
+                    <li>Statistical descriptions</li>
+                </ul>
+                <h3>Analysis Techniques</h3>
+                <ul>
+                    <li>Correlation analysis</li>
+                    <li>Pairplot analysis</li>
+                    <li>Distribution analysis</li>
+                </ul>
+            </div>
+
+            <!-- Key Findings -->
+            <div class="box findings highlight-box">
+                <h2>🔍 Key Findings</h2>
+                <h3>Finding 1: Weak Correlations</h3>
+                <p>Monthly correlations &lt; 0.4 suggest external factors drive prices</p>
+                <h3>Finding 2: Category Variation</h3>
+                <p>TAD shows highest prices; wide variation across 11 categories</p>
+                <h3>Finding 3: Seasonal Distribution</h3>
+                <p>Wide variation across categories with outliers detected</p>
+                <h3>Finding 4: Data Integrity</h3>
+                <p>Missing values require imputation strategies</p>
+            </div>
+
+            <!-- Visual Insights -->
+            <div class="box insights">
+                <h2>📊 Visual Insights</h2>
+                <h3>Correlation Heatmap</h3>
+                <p>Weak relationships; external factors dominate</p>
+                <h3>Distribution Analysis</h3>
+                <p>Wide ranges with bimodal distributions detected</p>
+                <h3>Bar Charts</h3>
+                <p>TAD dominates February; pipeline pricing competitive</p>
+            </div>
+
+            <!-- Conclusion -->
+            <div class="box conclusion highlight-box">
+                <h2>✅ Conclusion</h2>
+                <h3>Key Takeaways</h3>
+                <ul>
+                    <li>External factors drive prices</li>
+                    <li>Seasonal trends matter</li>
+                    <li>Refinery ops affect pricing</li>
+                </ul>
+                <h3>Implications</h3>
+                <ul>
+                    <li>Refinery adjustments help</li>
+                    <li>Include external variables</li>
+                    <li>Strategic inventory mgmt</li>
+                </ul>
+            </div>
+
+            <!-- Next Steps -->
+            <div class="box next">
+                <h2>🚀 Next Steps</h2>
+                <ul>
+                    <li>Integrate crude oil data</li>
+                    <li>Develop regression models</li>
+                    <li>Build time-series forecasting</li>
+                    <li>Analyze policy impacts</li>
+                    <li>Test on future data</li>
+                </ul>
+                <h3 style="margin-top: 15px; color: #667eea;">Questions?</h3>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p><strong>Monica Hawkins</strong> | Pace University, New York</p>
+            <p>Dataset: EIA U.S. Natural Gas & Gasoline Prices | <strong>GitHub:</strong> Gasoline-Prices-Increase-CS-668-Capstone-Project</p>
+        </div>
+    </div>
+</body>
+</html>

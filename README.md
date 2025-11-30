@@ -12,7 +12,8 @@ mh21492p@pace.edu
 
 
 [📋 View Poster Template](./POSTER.md)  
-[🎨 View Interactive Poster](./poster.html)
+[🎨 View Interactive Poster](./poster.html)  
+[🖼️ View Canva-Style Poster](./poster-canva.html)
 
 ## Abstract 
   This research forecasts the gasoline price in U.S. and analyzes its managerial
