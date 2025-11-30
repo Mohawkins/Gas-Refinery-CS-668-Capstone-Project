@@ -121,7 +121,7 @@ which would be the lowest annual average price since 2020.
 
 * Lacy, R. 2005. Hurricane Katrina Disrupts District Economy. Region Focus, Fall 2005, Federal Reserve Bank of Richmond, 51–59. Retrieved from https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/econ_focus/2005/fall/pdf/economic_developments.pdf
 
-* 
+* CHEN, LONG, XIAOKUN LIU, AND PENG JING. 2023. Do Unprecedented Gasoline Prices Affect the Consumer Switching to New Energy Vehicles? An Integrated Social Cognitive Theory Model. Sustainability 15, 10, Article 8030 (May 2023), 19 pages. DOI: https://doi.org/10.3390/su15108030
 
 
             
