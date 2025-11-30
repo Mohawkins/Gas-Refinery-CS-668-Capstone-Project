@@ -10,6 +10,7 @@ mh21492p@pace.edu
 
 ## Gasoline Price Increase Poster
 
+ 🔗 [View Project Poster](https://github.com/Mohawkins/Gasoline-Prices-Increase-CS-668-Capstone-Project)
 
 
 
