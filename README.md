@@ -96,6 +96,9 @@ which would be the lowest annual average price since 2020.
              
   ## Conclusions
 
+    * Summer-blend fuel requirements may be relaxed in times of emergencies or when potential shortages are possible.
+In 2005, NACS worked with Congress to give the EPA the authority to waive certain regulations affecting the motor fuels system in times of emergency. The EPA’s immediate use of these waivers is critical to bringing the entire fuel supply chain into operation as quickly and safely as possible. For example, this flexibility allowed winter blends of gasoline to enter into the market in 2017 before the traditional transition date of September 15 in response to Hurricanes Harvey, Irma and Maria.
+
  
            
   ## Reference
@@ -117,6 +120,8 @@ which would be the lowest annual average price since 2020.
 * [1] Eric Morath. 2021. A Hurricane Ida economic impact: Louisiana’s 17 oil refineries account for one-fifth of U.S. capacity — and hundreds could be vulnerable to flooding. *Los Angeles Times*. Aug. 29, 2021. Retrieved Nov. 21, 2025 from https://www.latimes.com/business/story/2021-08-29/a-hurricane-ida-economic-impact#:~:text=Louisiana’s%2017%20oil%20refineries%20account,could%20be%20vulnerable%20to%20flooding.
 
 * Lacy, R. 2005. Hurricane Katrina Disrupts District Economy. Region Focus, Fall 2005, Federal Reserve Bank of Richmond, 51–59. Retrieved from https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/econ_focus/2005/fall/pdf/economic_developments.pdf
+
+* NACS. n.d. Changing Seasons, Changing Gas Prices. NACS Online. Retrieved November 29, 2025, from https://www.convenience.org/Topics/Fuels/Changing-Seasons-Changing-Gas-Prices
 
 
 
