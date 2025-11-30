@@ -13,8 +13,6 @@ mh21492p@pace.edu
 
 
 
-[🖼️ View Canva-Style Poster](./poster-canva.html)
-
 ## Abstract 
   This research forecasts the gasoline price in U.S. and analyzes its managerial
 implications by means of both univariate and multivariate time series forecasting
