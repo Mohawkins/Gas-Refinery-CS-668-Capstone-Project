@@ -99,7 +99,8 @@ which would be the lowest annual average price since 2020.
   ## Conclusions
   * Following the substantial gasoline price increases seen during the spring, summer, and periods of national disaster, consumers are increasingly considering alternatives—most notably, new energy vehicles (NEVs). The significant increase in gasoline prices has the potential to drive consumers toward the adoption of new energy vehicles. However, the reduction in government subsidies may impede consumer behavior toward switching, and the inadequate charging infrastructure in China may also act as a barrier to consumer adoption. The combination of these factors could potentially impact consumer decision making. This study is helpful in analyzing the mechanisms that may affect consumers’ switching to new energy vehicles and in understanding and predicting the changing trends of consumers’ switching intention to new energy vehicles under the impact of multiple factors, which may provide effective countermeasures for the future formulation of relevant policy measures to accelerate the development of new energy vehicles. The SCT modeling results showed that personal factors had a significant positive impact on consumers’ willingness to switch from owning no vehicle or owning a traditional gasoline vehicle to adopting a new energy vehicle. Some variables related to environmental factors had a negative impact on the switching intention.
 
-  * <img width="710" height="747" alt="image" src="https://github.com/user-attachments/assets/97ece8ef-e01b-48a8-95af-217eb4f462bf" />
+  * <img width="606" height="367" alt="image" src="https://github.com/user-attachments/assets/d6b67475-753d-4e17-baa3-3e6dcad72b7e" />
+
 
 
 
