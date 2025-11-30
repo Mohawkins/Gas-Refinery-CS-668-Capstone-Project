@@ -1,0 +1,63 @@
+/presentation/Final_Presentation.md
+# Final Presentation  
+### Gasoline Prices Increase – CS 668 Capstone Project  
+---
+
+## Slide 1 — Title
+**Gasoline Prices Increase: An Analytical Study**  
+*CS 668 Capstone Project – Your Name*
+
+---
+
+## Slide 2 — Introduction
+- Gasoline prices increased significantly over the study period  
+- Goal: investigate contributing factors  
+- Methods: data analysis, regression, forecasting  
+
+---
+
+## Slide 3 — Research Questions
+1. What drives gasoline price changes?  
+2. How do external events impact prices?  
+3. Can we predict future fluctuations?  
+
+---
+
+## Slide 4 — Data Sources
+- Energy Information Administration (EIA)  
+- Crude oil spot prices  
+- Inflation / CPI  
+- Refinery capacity reports  
+
+---
+
+## Slide 5 — Methodology
+- Data preprocessing  
+- Correlation analysis  
+- Regression modeling  
+- Trend & seasonal decomposition  
+- Forecasting techniques  
+
+---
+
+## Slide 6 — Key Findings
+- (Add your actual results)  
+-  
+-  
+
+---
+
+## Slide 7 — Visual Insights
+![Chart](../results/chart1.png)
+
+---
+
+## Slide 8 — Conclusion
+- Summary of strongest predictors  
+- Policy or economic implications  
+- Next steps / future work  
+
+---
+
+## Slide 9 — Thank You
+Questions?
