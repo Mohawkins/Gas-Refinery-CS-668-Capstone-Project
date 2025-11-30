@@ -10,7 +10,8 @@ mh21492p@pace.edu
 
 ## Gasoline Price Increase Poster
 
-[📊 View Final Presentation](./Final%20Presentation)
+[📊 View Final Presentation](./Final%20Presentation)  
+[🎨 View Interactive Poster](./poster.html)
 
 ## Abstract 
   This research forecasts the gasoline price in U.S. and analyzes its managerial
