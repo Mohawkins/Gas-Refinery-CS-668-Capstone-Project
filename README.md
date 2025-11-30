@@ -30,7 +30,7 @@ research with the data for the period January 2002 through November 2022. We
 find that the time series regression model with trend, season, GDP, CPI, and crude
 oil price turns out the be the best forecasting model both on the training data and
 the testing data, even with the testing data containing significant turning points.
-Managerial implications and future research directions are also discusse
+Managerial implications and future research directions are also discussed
 
 
 
