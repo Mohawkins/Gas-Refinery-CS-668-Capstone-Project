@@ -8,6 +8,8 @@ mh21492p@pace.edu
 
 [🎬 Watch the demo video](https://drive.google.com/file/d/10Njw15ML6Mbobk9_7THzBzOO5fQvi8ar/view?usp=drive_link)
 
+## Gasoline Price Increase Poster
+
 
 ## Abstract 
   This research forecasts the gasoline price in U.S. and analyzes its managerial
@@ -131,7 +133,7 @@ which would be the lowest annual average price since 2020.
 
 
 
-## Gasoline Price Increase Poster
+
 
 
 
