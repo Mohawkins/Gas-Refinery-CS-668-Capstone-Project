@@ -69,7 +69,7 @@ which would be the lowest annual average price since 2020.
   <img width="609" height="352" alt="image" src="https://github.com/user-attachments/assets/905f247f-4ec3-45e7-85e1-ff89fbf06fca" />
 
 
-  ## Economic limitations
+  ## Economic Limitations
   
       
   
