@@ -131,7 +131,7 @@ which would be the lowest annual average price since 2020.
 
 
 ## Poster
- ![Gasoline Prices Poster](https://github.com/Mohawkins/Gasoline-Prices-Increase-CS-668-Capstone-Project/raw/main/assets/banner.png)
+ 
 
             
 
