@@ -10,7 +10,7 @@ mh21492p@pace.edu
 
 ## Gasoline Price Increase Poster
 
-
+[Link to Document](documents/Gasoline Price Increase.docx)
 
 
 ## Abstract 
