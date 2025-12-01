@@ -10,7 +10,7 @@ mh21492p@pace.edu
 
 ## Gasoline Price Increase Poster
 
-file:///C:/Users/ginah/OneDrive/Gasoline_Price_Poster.pdf
+
 
 
 
