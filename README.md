@@ -10,6 +10,9 @@ mh21492p@pace.edu
 
 ## Gasoline Price Increase Poster
 
+![Gasoline Price Increase Poster](https://user-images.githubusercontent.com/.../your-image.png)
+
+
 
 
 
