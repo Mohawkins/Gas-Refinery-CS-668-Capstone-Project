@@ -6,18 +6,10 @@
 
 mh21492p@pace.edu
 
-[🎬 Watch the demo video](https://drive.google.com/file/d/10Njw15ML6Mbobk9_7THzBzOO5fQvi8ar/view?usp=drive_link)
-
-## Final Presentation Gasoline Price Increase
-
-https://drive.google.com/file/d/1h8W0BkA5zT4KRTnch1JS6J-FB9EEtlZd/view?usp=drive_link
-
 
 ## Gasoline Price Increase Poster
 
 https://github.com/Mohawkins/Gasoline-Prices-Increase-CS-668-Capstone-Project/blob/main/Gasoline_Price_Poster.jpg
-
-
 
 
 ## Abstract 
@@ -38,7 +30,6 @@ find that the time series regression model with trend, season, GDP, CPI, and cru
 oil price turns out the be the best forecasting model both on the training data and
 the testing data, even with the testing data containing significant turning points.
 Managerial implications and future research directions are also discussed
-
 
 
 ## Keywords 
