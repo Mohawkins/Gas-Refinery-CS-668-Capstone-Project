@@ -104,7 +104,7 @@ which would be the lowest annual average price since 2020.
   * <img width="606" height="367" alt="image" src="https://github.com/user-attachments/assets/d6b67475-753d-4e17-baa3-3e6dcad72b7e" />
  
            
-  ## Citation
+  ## Bibliography
   
 * He, Xin James. 2023. Forecasting Gasoline Price with Time Series Models. Communications of the IIMA 21, 1 (2023), Article 1. DOI:https://doi.org/10.58729/1941-6687.1440
 
